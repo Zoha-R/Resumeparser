@@ -1,2 +1,3 @@
 # Resumeparser
-still under work.Have to debug the code 
+project from frontend on local server using streamlit to backend using colab and vscode has been done . only deployment is left
+
