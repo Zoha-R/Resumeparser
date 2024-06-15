@@ -1,4 +1,7 @@
-streamlit
 PyPDF2
+pypdf
+langchain-community
+langchain-core
 google-generativeai
+langchain
 python-dotenv
